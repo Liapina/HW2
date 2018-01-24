@@ -1,0 +1,24 @@
+.mondrian{
+	width: 400px;
+	height: 300px;
+}
+.tablemondrian {
+	width: 400px;
+	height: 300px;
+	display: inline-table;
+}
+.yellow{
+	background-color: yellow;
+}
+.red{
+	background-color: red;
+}
+.black{
+	background-color: black;
+}
+.navy{
+	background-color: navy;
+}
+.mondrianline>td{
+	border: 2px solid black;
+}

@@ -1,0 +1,13 @@
+.table3{
+	width: 400px;
+	height: 200px;
+}
+.tabletable{
+	display: inline-table;
+	width: 400px;
+	height: 200px;
+	border-collapse: collapse;
+}
+.linegrey>td{
+	border-bottom: 2px solid grey;
+}

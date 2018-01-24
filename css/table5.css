@@ -1,0 +1,27 @@
+.table5{
+	width: 600px;
+	height: 300px;
+}
+.table55{
+	width: 600px;
+	height: 300px;
+	display: inline-table;
+	border: 3px solid lightgray;
+	text-align: center;
+}
+.border>td{
+	border: 3px solid lightgray;
+
+}
+.lefttext{
+	text-align: left;
+}
+.yellow{
+	background-color: lightyellow;
+}
+.blue{
+	background-color: lightblue;
+}
+.green{
+	background-color: lightgreen;
+}

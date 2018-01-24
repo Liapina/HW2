@@ -1,0 +1,34 @@
+
+.firsttable{
+	width: 400px;
+	height: 300px;
+}
+.table{
+	width: 400px;
+	height: 300px;
+	display: inline-table;
+	color: black;
+	border-top: 2px solid black;
+}
+.navy{
+	background-color: navy;
+	color: white;
+}
+.right{
+	text-align: right;
+}
+.center{
+	text-align: center;
+}
+.pink{
+	background-color: pink;
+}
+
+.blue{
+	background-color: blue;
+	color: white;
+}
+.pinkline>td{
+	border-bottom: 2px solid grey;
+	border-top: 2px solid gray;
+}

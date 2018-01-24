@@ -1,0 +1,24 @@
+.table4{
+	width: 450px;
+	height: 200px;
+}
+.tabletable4{
+	display: inline-table;
+	width: 450px;
+	height: 200px;
+}
+td{
+	padding: 10px;
+}
+.blue{
+	background-color: blue;
+}
+.green{
+	background-color: green;
+}
+.yellow{
+	background-color: lightyellow;
+}
+.lightblue{
+	background-color: lightblue;
+}
